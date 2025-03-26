@@ -1,0 +1,4 @@
+/.venv/
+/output_conversations/
+.env
+/__pycache__/
